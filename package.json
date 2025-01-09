@@ -15,8 +15,16 @@
     "axios": "^1.7.9",
     "cheerio": "^1.0.0",
     "csv-parser": "^3.1.0",
+    "esbuild": "^0.24.2",
     "eslint": "^9.17.0",
+    "pkg": "^5.8.1",
     "prettier": "^3.4.2",
     "typescript": "^5.7.2"
+  },
+  "pkg": {
+    "assets": [],
+    "targets": [
+      "node23-win-x64"
+    ]
   }
 }
