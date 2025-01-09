@@ -2,5 +2,6 @@ node_modules
 data.csv
 *lock.json
 *.js
-*.mjs
+*.exe
+*.blob
 images
